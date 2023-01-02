@@ -13,6 +13,7 @@ body {
     display: grid;
     place-items: center;
     font-family: Output, sans-serif;
+    padding-inline: 10px;
 }
 
 h1 {
